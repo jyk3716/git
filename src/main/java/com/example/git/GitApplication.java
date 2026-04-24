@@ -35,5 +35,9 @@ public class GitApplication {
         return "B";
     }
 
+    public String getC() {
+        return "C";
+    }
+
 
 }
