@@ -22,4 +22,6 @@ public class GitApplication {
         return "Application is running";
     }
 
+//    1차 개발 진행
+
 }
