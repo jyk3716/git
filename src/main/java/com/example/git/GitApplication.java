@@ -28,8 +28,8 @@ public class GitApplication {
         return "Application is running";
     }
 
-    public String getA() {
-        return "A";
+    public String getF() {
+        return "F";
     }
 
     public String getB() {
