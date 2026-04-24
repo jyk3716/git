@@ -22,8 +22,11 @@ public class GitApplication {
         return "Application is running";
     }
 
+//    1차 개발 진행
+
     public String getStatus2() {
         return "Application is running";
     }
+
 
 }
