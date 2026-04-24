@@ -24,11 +24,16 @@ public class GitApplication {
 
 //    1차 개발 진행
 
-    public String getStatus1() {
+    public String getStatus2() {
         return "Application is running";
     }
 
     public String getA() {
         return "A";
     }
+    public String getB() {
+        return "B";
+    }
+
+
 }
